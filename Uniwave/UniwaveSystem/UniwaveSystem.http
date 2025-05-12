@@ -1,0 +1,6 @@
+@UniwaveSystem_HostAddress = http://localhost:5259
+
+GET {{UniwaveSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
