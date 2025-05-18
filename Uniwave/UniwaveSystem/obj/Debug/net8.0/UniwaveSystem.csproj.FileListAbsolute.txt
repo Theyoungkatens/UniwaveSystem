@@ -143,3 +143,4 @@ C:\Users\Admin\Documents\MinhHung\Uniwave\Uniwave\UniwaveSystem\obj\Debug\net8.0
 C:\Users\Admin\Documents\MinhHung\Uniwave\Uniwave\UniwaveSystem\obj\Debug\net8.0\UniwaveSystem.genruntimeconfig.cache
 C:\Users\Admin\Documents\MinhHung\Uniwave\Uniwave\UniwaveSystem\obj\Debug\net8.0\ref\UniwaveSystem.dll
 C:\Users\Admin\Documents\MinhHung\Uniwave\Uniwave\UniwaveSystem\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Admin\Documents\MinhHung\Uniwave\Uniwave\UniwaveSystem\obj\Debug\net8.0\UniwaveSystem.sourcelink.json

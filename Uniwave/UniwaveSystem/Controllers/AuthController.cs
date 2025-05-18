@@ -38,12 +38,32 @@ namespace UniwaveSystem.Controllers
             var user = new User
             {
                 Username = dto.Username,
-                PasswordHash = passwordHash
+                PasswordHash = passwordHash,
+                Role = 2 
             };
 
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
             return Ok("User registered successfully");
+        }
+        [HttpPost("register-admin")]
+        public async Task<IActionResult> RegisterAdmin(RegisterDto dto)
+        {
+            if (await _context.Users.AnyAsync(u => u.Username == dto.Username))
+                return BadRequest("Username already exists");
+
+            var passwordHash = BCrypt.Net.BCrypt.HashPassword(dto.Password);
+
+            var adminUser = new User
+            {
+                Username = dto.Username,
+                PasswordHash = passwordHash,
+                Role = 1 // Admin
+            };
+
+            _context.Users.Add(adminUser);
+            await _context.SaveChangesAsync();
+            return Ok("Admin registered successfully");
         }
 
         [HttpPost("login")]
@@ -53,16 +73,23 @@ namespace UniwaveSystem.Controllers
             if (user == null)
                 return Unauthorized("Invalid username");
 
-            using var hmac = new HMACSHA256();
-            var passwordHash = Convert.ToBase64String(hmac.ComputeHash(Encoding.UTF8.GetBytes(dto.Password)));
-
             if (!BCrypt.Net.BCrypt.Verify(dto.Password, user.PasswordHash))
                 return Unauthorized("Invalid password");
-    
 
             var token = GenerateJwtToken(user);
-            return Ok(new { token });
+
+            return Ok(new
+            {
+                token,
+                user = new
+                {
+                    user.Id,
+                    user.Username,
+                    user.Role
+                }
+            });
         }
+
 
         private string GenerateJwtToken(User user)
         {

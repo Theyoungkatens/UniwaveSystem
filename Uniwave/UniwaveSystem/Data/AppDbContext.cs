@@ -8,5 +8,12 @@ namespace UniwaveSystem.Data
         public AppDbContext(DbContextOptions options) : base(options) { }
 
         public DbSet<User> Users => Set<User>();
+        public DbSet<Blog> Blogs { get; set; }
+            public DbSet<Contact> Contacts { get; set; }
+        public DbSet<LogisticRoute> LogisticRoutes { get; set; }
+        public DbSet<ShippingOrder> ShippingOrders { get; set; }
+
+
+
     }
 }

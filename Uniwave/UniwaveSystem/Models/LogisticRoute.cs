@@ -2,16 +2,17 @@
 
 namespace UniwaveSystem.Models
 {
-    public class User
+    public class LogisticRoute
     {
         public int Id { get; set; }
 
         [Required]
-        public string Username { get; set; } = null!;
+        public string FromLocation { get; set; } = null!;
 
         [Required]
-        public string PasswordHash { get; set; } = null!;
+        public string ToLocation { get; set; } = null!;
+
         [Required]
-        public int Role { get; set; }
+        public decimal Price { get; set; }
     }
 }
