@@ -11,6 +11,7 @@ namespace UniwaveSystem.Data
         public DbSet<Blog> Blogs { get; set; }
             public DbSet<Contact> Contacts { get; set; }
         public DbSet<LogisticRoute> LogisticRoutes { get; set; }
+
         public DbSet<ShippingOrder> ShippingOrders { get; set; }
 
 

@@ -4,6 +4,8 @@
     {
         public string FromLocation { get; set; } = null!;
         public string ToLocation { get; set; } = null!;
-        public decimal Price { get; set; }
+        public decimal BasePricePerKg { get; set; }
+        public decimal ExtraPricePer0_1Kg { get; set; }
     }
+
 }

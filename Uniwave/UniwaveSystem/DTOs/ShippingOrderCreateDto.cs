@@ -1,6 +1,6 @@
 ﻿namespace UniwaveSystem.DTOs
 {
-    public class ShippingOrderDto
+    public class ShippingOrderCreateDto
     {
         public string Email { get; set; } = null!;
         public string PhoneNumber { get; set; } = null!;

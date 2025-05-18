@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|c:\\users\\admin\\documents\\minhhung\\uniwave\\uniwave\\uniwavesystem\\migrations\\20250518083501_addshippingorderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|solutionrelative:uniwavesystem\\migrations\\20250518083501_addshippingorderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|c:\\users\\admin\\documents\\minhhung\\uniwave\\uniwave\\uniwavesystem\\models\\shippingorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|solutionrelative:uniwavesystem\\models\\shippingorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|c:\\users\\admin\\documents\\minhhung\\uniwave\\uniwave\\uniwavesystem\\models\\logisticroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|solutionrelative:uniwavesystem\\models\\logisticroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|c:\\users\\admin\\documents\\minhhung\\uniwave\\uniwave\\uniwavesystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|solutionrelative:uniwavesystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|c:\\users\\admin\\documents\\minhhung\\uniwave\\uniwave\\uniwavesystem\\controllers\\shippingorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|solutionrelative:uniwavesystem\\controllers\\shippingorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|c:\\users\\admin\\documents\\minhhung\\uniwave\\uniwave\\uniwavesystem\\dtos\\shippingorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|solutionrelative:uniwavesystem\\dtos\\shippingorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|c:\\users\\admin\\documents\\minhhung\\uniwave\\uniwave\\uniwavesystem\\models\\shippingorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|solutionrelative:uniwavesystem\\models\\shippingorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|c:\\users\\admin\\documents\\minhhung\\uniwave\\uniwave\\uniwavesystem\\controllers\\logisticroutescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|solutionrelative:uniwavesystem\\controllers\\logisticroutescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|c:\\users\\admin\\documents\\minhhung\\uniwave\\uniwave\\uniwavesystem\\controllers\\shippingorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|solutionrelative:uniwavesystem\\controllers\\shippingorderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|c:\\users\\admin\\documents\\minhhung\\uniwave\\uniwave\\uniwavesystem\\dtos\\logisticroutedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|solutionrelative:uniwavesystem\\dtos\\logisticroutedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|c:\\users\\admin\\documents\\minhhung\\uniwave\\uniwave\\uniwavesystem\\models\\logisticroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|solutionrelative:uniwavesystem\\models\\logisticroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|c:\\users\\admin\\documents\\minhhung\\uniwave\\uniwave\\uniwavesystem\\migrations\\20250518091538_updatelogisticroute_pricingstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|solutionrelative:uniwavesystem\\migrations\\20250518091538_updatelogisticroute_pricingstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|c:\\users\\admin\\documents\\minhhung\\uniwave\\uniwave\\uniwavesystem\\dtos\\shippingordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|solutionrelative:uniwavesystem\\dtos\\shippingordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|c:\\users\\admin\\documents\\minhhung\\uniwave\\uniwave\\uniwavesystem\\migrations\\20250518083501_addshippingorderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|solutionrelative:uniwavesystem\\migrations\\20250518083501_addshippingorderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{090DF428-1B95-4194-B163-4DBAF5BABC04}|UniwaveSystem\\UniwaveSystem.csproj|c:\\users\\admin\\documents\\minhhung\\uniwave\\uniwave\\uniwavesystem\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 230,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,7 +138,104 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShippingOrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Controllers\\ShippingOrdersController.cs",
+              "RelativeDocumentMoniker": "UniwaveSystem\\Controllers\\ShippingOrdersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Controllers\\ShippingOrdersController.cs",
+              "RelativeToolTip": "UniwaveSystem\\Controllers\\ShippingOrdersController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:34:41.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogisticRoutesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Controllers\\LogisticRoutesController.cs",
+              "RelativeDocumentMoniker": "UniwaveSystem\\Controllers\\LogisticRoutesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Controllers\\LogisticRoutesController.cs",
+              "RelativeToolTip": "UniwaveSystem\\Controllers\\LogisticRoutesController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:26:47.505Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ShippingOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Models\\ShippingOrder.cs",
+              "RelativeDocumentMoniker": "UniwaveSystem\\Models\\ShippingOrder.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Models\\ShippingOrder.cs",
+              "RelativeToolTip": "UniwaveSystem\\Models\\ShippingOrder.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:33:45.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogisticRoute.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Models\\LogisticRoute.cs",
+              "RelativeDocumentMoniker": "UniwaveSystem\\Models\\LogisticRoute.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Models\\LogisticRoute.cs",
+              "RelativeToolTip": "UniwaveSystem\\Models\\LogisticRoute.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:25:39.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UniwaveSystem\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "UniwaveSystem\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:03:14.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogisticRouteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\DTOs\\LogisticRouteDto.cs",
+              "RelativeDocumentMoniker": "UniwaveSystem\\DTOs\\LogisticRouteDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\DTOs\\LogisticRouteDto.cs",
+              "RelativeToolTip": "UniwaveSystem\\DTOs\\LogisticRouteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:26:09.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShippingOrderCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\DTOs\\ShippingOrderCreateDto.cs",
+              "RelativeDocumentMoniker": "UniwaveSystem\\DTOs\\ShippingOrderCreateDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\DTOs\\ShippingOrderCreateDto.cs",
+              "RelativeToolTip": "UniwaveSystem\\DTOs\\ShippingOrderCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:34:16.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250518091538_UpdateLogisticRoute_PricingStructure.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Migrations\\20250518091538_UpdateLogisticRoute_PricingStructure.cs",
+              "RelativeDocumentMoniker": "UniwaveSystem\\Migrations\\20250518091538_UpdateLogisticRoute_PricingStructure.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Migrations\\20250518091538_UpdateLogisticRoute_PricingStructure.cs",
+              "RelativeToolTip": "UniwaveSystem\\Migrations\\20250518091538_UpdateLogisticRoute_PricingStructure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:15:38.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "20250518083501_AddShippingOrdersTable.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Migrations\\20250518083501_AddShippingOrdersTable.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\Migrations\\20250518083501_AddShippingOrdersTable.cs",
@@ -142,60 +243,11 @@
               "RelativeToolTip": "UniwaveSystem\\Migrations\\20250518083501_AddShippingOrdersTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T08:35:01.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T08:35:01.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShippingOrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Controllers\\ShippingOrdersController.cs",
-              "RelativeDocumentMoniker": "UniwaveSystem\\Controllers\\ShippingOrdersController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Controllers\\ShippingOrdersController.cs",
-              "RelativeToolTip": "UniwaveSystem\\Controllers\\ShippingOrdersController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAYwD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T08:34:41.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ShippingOrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\DTOs\\ShippingOrderDto.cs",
-              "RelativeDocumentMoniker": "UniwaveSystem\\DTOs\\ShippingOrderDto.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\DTOs\\ShippingOrderDto.cs",
-              "RelativeToolTip": "UniwaveSystem\\DTOs\\ShippingOrderDto.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T08:34:16.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShippingOrder.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Models\\ShippingOrder.cs",
-              "RelativeDocumentMoniker": "UniwaveSystem\\Models\\ShippingOrder.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Models\\ShippingOrder.cs",
-              "RelativeToolTip": "UniwaveSystem\\Models\\ShippingOrder.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAgwCIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T08:33:45.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "UniwaveSystem\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "UniwaveSystem\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T16:03:14.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "20250518082721_AddLogisticRoutesTable.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Migrations\\20250518082721_AddLogisticRoutesTable.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\Migrations\\20250518082721_AddLogisticRoutesTable.cs",
@@ -207,43 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LogisticRoutesController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Controllers\\LogisticRoutesController.cs",
-              "RelativeDocumentMoniker": "UniwaveSystem\\Controllers\\LogisticRoutesController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Controllers\\LogisticRoutesController.cs",
-              "RelativeToolTip": "UniwaveSystem\\Controllers\\LogisticRoutesController.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAYwEgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T08:26:47.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LogisticRouteDto.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\DTOs\\LogisticRouteDto.cs",
-              "RelativeDocumentMoniker": "UniwaveSystem\\DTOs\\LogisticRouteDto.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\DTOs\\LogisticRouteDto.cs",
-              "RelativeToolTip": "UniwaveSystem\\DTOs\\LogisticRouteDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T08:26:09.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LogisticRoute.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Models\\LogisticRoute.cs",
-              "RelativeDocumentMoniker": "UniwaveSystem\\Models\\LogisticRoute.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Models\\LogisticRoute.cs",
-              "RelativeToolTip": "UniwaveSystem\\Models\\LogisticRoute.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T08:25:39.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ContactDto.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\DTOs\\ContactDto.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\DTOs\\ContactDto.cs",
@@ -255,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BlogDto.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\DTOs\\BlogDto.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\DTOs\\BlogDto.cs",
@@ -267,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\Controllers\\ContactController.cs",
@@ -279,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\Models\\Contact.cs",
@@ -291,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\Controllers\\BlogController.cs",
@@ -303,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "20250518081909_AddContactTable.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Migrations\\20250518081909_AddContactTable.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\Migrations\\20250518081909_AddContactTable.cs",
@@ -315,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "20250518081527_AddBlogModel.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Migrations\\20250518081527_AddBlogModel.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\Migrations\\20250518081527_AddBlogModel.cs",
@@ -327,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Models\\Blog.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\Models\\Blog.cs",
@@ -339,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "20250518081043_AddUserRole.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Migrations\\20250518081043_AddUserRole.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\Migrations\\20250518081043_AddUserRole.cs",
@@ -351,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\Controllers\\AuthController.cs",
@@ -363,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Program.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\Program.cs",
@@ -375,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\appsettings.json",
               "RelativeDocumentMoniker": "UniwaveSystem\\appsettings.json",
@@ -387,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "UniwaveSystem.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\UniwaveSystem.csproj",
               "RelativeDocumentMoniker": "UniwaveSystem\\UniwaveSystem.csproj",
@@ -399,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Models\\User.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\Models\\User.cs",
@@ -411,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\DTOs\\RegisterDto.cs",
@@ -423,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "20250512161629_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\Migrations\\20250512161629_InitialCreate.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\Migrations\\20250512161629_InitialCreate.cs",
@@ -435,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Documents\\MinhHung\\Uniwave\\Uniwave\\UniwaveSystem\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "UniwaveSystem\\DTOs\\LoginDto.cs",

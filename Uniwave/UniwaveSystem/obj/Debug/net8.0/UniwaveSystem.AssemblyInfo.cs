@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniwaveSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ebc65b9740deb24c3426cb38cc501f0eb5b6d8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a73ebc45839882369e36f8361e574c163d336f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniwaveSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniwaveSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

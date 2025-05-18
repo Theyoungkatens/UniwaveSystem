@@ -5,7 +5,8 @@ namespace UniwaveSystem.Models
 {
     public class ShippingOrder
     {
-        public int Id { get; set; }
+        [Key]
+        public string Id { get; set; } = null!;
 
         [Required]
         public string Email { get; set; } = null!;
@@ -24,6 +25,9 @@ namespace UniwaveSystem.Models
 
         [Required]
         public double WeightKg { get; set; }
+        [Required]
+        public decimal TotalPrice { get; set; }
+
 
         [Required]
         public int LogisticRouteId { get; set; }

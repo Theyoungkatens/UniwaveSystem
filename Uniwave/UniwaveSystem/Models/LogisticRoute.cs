@@ -13,6 +13,10 @@ namespace UniwaveSystem.Models
         public string ToLocation { get; set; } = null!;
 
         [Required]
-        public decimal Price { get; set; }
+        public decimal BasePricePerKg { get; set; }  // Ví dụ 156600 cho 1kg
+
+        [Required]
+        public decimal ExtraPricePer0_1Kg { get; set; }  // Ví dụ 443 VNĐ cho mỗi 0.1kg tăng thêm
     }
+
 }

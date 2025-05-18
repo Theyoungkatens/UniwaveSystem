@@ -39,7 +39,8 @@ namespace UniwaveSystem.Controllers
             {
                 FromLocation = dto.FromLocation,
                 ToLocation = dto.ToLocation,
-                Price = dto.Price
+                BasePricePerKg = dto.BasePricePerKg,
+                ExtraPricePer0_1Kg = dto.ExtraPricePer0_1Kg
             };
 
             _context.LogisticRoutes.Add(route);
@@ -55,11 +56,13 @@ namespace UniwaveSystem.Controllers
 
             route.FromLocation = dto.FromLocation;
             route.ToLocation = dto.ToLocation;
-            route.Price = dto.Price;
+            route.BasePricePerKg = dto.BasePricePerKg;
+            route.ExtraPricePer0_1Kg = dto.ExtraPricePer0_1Kg;
 
             await _context.SaveChangesAsync();
             return Ok(route);
         }
+
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteRoute(int id)
